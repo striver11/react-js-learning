@@ -64,3 +64,13 @@ function Example3() {
 
 export default Example3;
 
+
+
+
+// These examples show:
+
+// Running useEffect once on mount.
+
+// Running useEffect when a state value changes.
+
+// Cleaning up effects when the component unmounts.
